@@ -1,0 +1,1 @@
+PocketChef allows users to snap a photo of their fridge, pantry, or grocery haul, and automatically detects the visible ingredients using computer vision. Based on the recognized food items and other common household inrgedients, the app recommends a list of recipes that can be made using those ingredients, minimizing waste and maximizing creativity.
